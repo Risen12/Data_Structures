@@ -1,0 +1,15 @@
+C:\Users\Danya\source\repos\Data_structures\Data_structures\bin\Debug\net6.0\Data_structures.exe
+C:\Users\Danya\source\repos\Data_structures\Data_structures\bin\Debug\net6.0\Data_structures.deps.json
+C:\Users\Danya\source\repos\Data_structures\Data_structures\bin\Debug\net6.0\Data_structures.runtimeconfig.json
+C:\Users\Danya\source\repos\Data_structures\Data_structures\bin\Debug\net6.0\Data_structures.dll
+C:\Users\Danya\source\repos\Data_structures\Data_structures\bin\Debug\net6.0\ref\Data_structures.dll
+C:\Users\Danya\source\repos\Data_structures\Data_structures\bin\Debug\net6.0\Data_structures.pdb
+C:\Users\Danya\source\repos\Data_structures\Data_structures\obj\Debug\net6.0\Data_structures.csproj.AssemblyReference.cache
+C:\Users\Danya\source\repos\Data_structures\Data_structures\obj\Debug\net6.0\Data_structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danya\source\repos\Data_structures\Data_structures\obj\Debug\net6.0\Data_structures.AssemblyInfoInputs.cache
+C:\Users\Danya\source\repos\Data_structures\Data_structures\obj\Debug\net6.0\Data_structures.AssemblyInfo.cs
+C:\Users\Danya\source\repos\Data_structures\Data_structures\obj\Debug\net6.0\Data_structures.csproj.CoreCompileInputs.cache
+C:\Users\Danya\source\repos\Data_structures\Data_structures\obj\Debug\net6.0\Data_structures.dll
+C:\Users\Danya\source\repos\Data_structures\Data_structures\obj\Debug\net6.0\ref\Data_structures.dll
+C:\Users\Danya\source\repos\Data_structures\Data_structures\obj\Debug\net6.0\Data_structures.pdb
+C:\Users\Danya\source\repos\Data_structures\Data_structures\obj\Debug\net6.0\Data_structures.genruntimeconfig.cache
