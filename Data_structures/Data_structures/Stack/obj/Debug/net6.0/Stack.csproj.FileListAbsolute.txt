@@ -1,0 +1,15 @@
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\bin\Debug\net6.0\Stack.exe
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\bin\Debug\net6.0\Stack.deps.json
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\bin\Debug\net6.0\Stack.dll
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\bin\Debug\net6.0\ref\Stack.dll
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\bin\Debug\net6.0\Stack.pdb
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\obj\Debug\net6.0\Stack.csproj.AssemblyReference.cache
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\obj\Debug\net6.0\Stack.dll
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\obj\Debug\net6.0\ref\Stack.dll
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\obj\Debug\net6.0\Stack.pdb
+C:\Users\Danya\source\repos\Data_structures\Data_structures\Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
