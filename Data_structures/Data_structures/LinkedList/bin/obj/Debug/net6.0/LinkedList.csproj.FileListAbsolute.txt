@@ -1,0 +1,5 @@
+C:\Users\Danya\source\repos\Data_structures\Data_structures\obj\Debug\net6.0\LinkedList.csproj.AssemblyReference.cache
+C:\Users\Danya\source\repos\Data_structures\Data_structures\obj\Debug\net6.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danya\source\repos\Data_structures\Data_structures\obj\Debug\net6.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\Danya\source\repos\Data_structures\Data_structures\obj\Debug\net6.0\LinkedList.AssemblyInfo.cs
+C:\Users\Danya\source\repos\Data_structures\Data_structures\obj\Debug\net6.0\LinkedList.csproj.CoreCompileInputs.cache

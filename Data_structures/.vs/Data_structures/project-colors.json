@@ -3,9 +3,34 @@
   "ProjectMap": {
     "9b20c910-d0b8-47e4-b20d-51351567ac66": {
       "ProjectGuid": "9b20c910-d0b8-47e4-b20d-51351567ac66",
-      "DisplayName": "Data_structures",
+      "DisplayName": "LinkedList",
       "ColorIndex": 0
+    },
+    "af603894-0270-4a9f-9be7-c722d7822e46": {
+      "ProjectGuid": "af603894-0270-4a9f-9be7-c722d7822e46",
+      "DisplayName": "Stack",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a952f746-563e-49c3-b245-0fa0c67b8295": {
+      "ProjectGuid": "a952f746-563e-49c3-b245-0fa0c67b8295",
+      "DisplayName": "LinkedList",
+      "ColorIndex": 2
+    },
+    "ea1cd7cb-903b-473a-a791-056c49282965": {
+      "ProjectGuid": "ea1cd7cb-903b-473a-a791-056c49282965",
+      "DisplayName": "TwoConnectedList",
+      "ColorIndex": 3
+    },
+    "f0f7ab21-680f-4c07-90e4-46c073cb1e35": {
+      "ProjectGuid": "f0f7ab21-680f-4c07-90e4-46c073cb1e35",
+      "DisplayName": "CircleList",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 5
 }
