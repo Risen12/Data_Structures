@@ -11,18 +11,7 @@
             list.Add(4);
             list.Add(5);
 
-            list.Insert(4, 7);
-
-           // foreach (var item in list)
-           // {
-           //     Console.WriteLine(item);
-           // }
-
-           // Console.ReadLine();
-
-           //list.Remove(3);
-           // list.Remove(1);
-           // list.Remove(8);
+            list.Remove(5);
 
             Console.ReadLine();
         }

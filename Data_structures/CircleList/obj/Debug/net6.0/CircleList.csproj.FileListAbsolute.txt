@@ -1,0 +1,15 @@
+C:\Users\Danya\source\repos\Data_structures\CircleList\bin\Debug\net6.0\CircleList.exe
+C:\Users\Danya\source\repos\Data_structures\CircleList\bin\Debug\net6.0\CircleList.deps.json
+C:\Users\Danya\source\repos\Data_structures\CircleList\bin\Debug\net6.0\CircleList.runtimeconfig.json
+C:\Users\Danya\source\repos\Data_structures\CircleList\bin\Debug\net6.0\CircleList.dll
+C:\Users\Danya\source\repos\Data_structures\CircleList\bin\Debug\net6.0\ref\CircleList.dll
+C:\Users\Danya\source\repos\Data_structures\CircleList\bin\Debug\net6.0\CircleList.pdb
+C:\Users\Danya\source\repos\Data_structures\CircleList\obj\Debug\net6.0\CircleList.csproj.AssemblyReference.cache
+C:\Users\Danya\source\repos\Data_structures\CircleList\obj\Debug\net6.0\CircleList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danya\source\repos\Data_structures\CircleList\obj\Debug\net6.0\CircleList.AssemblyInfoInputs.cache
+C:\Users\Danya\source\repos\Data_structures\CircleList\obj\Debug\net6.0\CircleList.AssemblyInfo.cs
+C:\Users\Danya\source\repos\Data_structures\CircleList\obj\Debug\net6.0\CircleList.csproj.CoreCompileInputs.cache
+C:\Users\Danya\source\repos\Data_structures\CircleList\obj\Debug\net6.0\CircleList.dll
+C:\Users\Danya\source\repos\Data_structures\CircleList\obj\Debug\net6.0\ref\CircleList.dll
+C:\Users\Danya\source\repos\Data_structures\CircleList\obj\Debug\net6.0\CircleList.pdb
+C:\Users\Danya\source\repos\Data_structures\CircleList\obj\Debug\net6.0\CircleList.genruntimeconfig.cache

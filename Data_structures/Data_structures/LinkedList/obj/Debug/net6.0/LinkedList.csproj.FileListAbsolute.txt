@@ -1,0 +1,15 @@
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\bin\Debug\net6.0\LinkedList.exe
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\bin\Debug\net6.0\LinkedList.deps.json
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\bin\Debug\net6.0\LinkedList.runtimeconfig.json
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\bin\Debug\net6.0\LinkedList.dll
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\bin\Debug\net6.0\ref\LinkedList.dll
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\bin\Debug\net6.0\LinkedList.pdb
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\obj\Debug\net6.0\LinkedList.csproj.AssemblyReference.cache
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\obj\Debug\net6.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfo.cs
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\obj\Debug\net6.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\obj\Debug\net6.0\LinkedList.dll
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\obj\Debug\net6.0\ref\LinkedList.dll
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\obj\Debug\net6.0\LinkedList.pdb
+C:\Users\Danya\source\repos\Data_structures\Data_structures\LinkedList\obj\Debug\net6.0\LinkedList.genruntimeconfig.cache
