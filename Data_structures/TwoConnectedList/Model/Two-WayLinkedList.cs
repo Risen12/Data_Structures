@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TwoConnectedList.Model
 {
-    public class Two_WayLinkedList<T>
+    public class Two_WayLinkedList<T> : IEnumerable
     {
         public Item<T> Head { get; private set; }
         public Item<T> Tail { get; private set; }
@@ -79,5 +80,38 @@ namespace TwoConnectedList.Model
             }
         }
 
+        public IEnumerator GetEnumerator()
+        {
+            var current = Head;
+            while (current != null)
+            {
+                yield return current;
+                current = current.Next;
+            }
+        }
+
+        public void Reverse()
+        {
+            var current = Head;
+            while (current.Next != null)
+            {
+                current = current.Next;
+            }
+            Tail = Head;
+            Tail.Previous = Tail.Next;
+            Tail.Next = null;
+            Head = current;
+            Head.Next = Head.Previous;
+            Head.Previous = null;
+            current = Head.Next;
+            while (current != Tail)
+            {
+                var next = current.Previous;
+                current.Previous = current.Next;
+                current.Next = next;
+                current = current.Next;
+            }
+            
+        }
     }
 }

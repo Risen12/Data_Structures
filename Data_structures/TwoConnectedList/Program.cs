@@ -12,9 +12,17 @@ namespace Data_structures
             list.Add(4);
             list.Add(5);
 
+            foreach (var item in list)
+            {
+                Console.WriteLine(item);
+            }
+
+            list.Reverse();
 
             list.Remove(1);
             list.Remove(3);
+
+
 
             Console.ReadLine();
         }
