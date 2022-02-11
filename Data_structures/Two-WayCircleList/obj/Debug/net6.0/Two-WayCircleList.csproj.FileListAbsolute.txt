@@ -1,0 +1,15 @@
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\bin\Debug\net6.0\Two-WayCircleList.exe
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\bin\Debug\net6.0\Two-WayCircleList.deps.json
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\bin\Debug\net6.0\Two-WayCircleList.runtimeconfig.json
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\bin\Debug\net6.0\Two-WayCircleList.dll
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\bin\Debug\net6.0\ref\Two-WayCircleList.dll
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\bin\Debug\net6.0\Two-WayCircleList.pdb
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\obj\Debug\net6.0\Two-WayCircleList.csproj.AssemblyReference.cache
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\obj\Debug\net6.0\Two-WayCircleList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\obj\Debug\net6.0\Two-WayCircleList.AssemblyInfoInputs.cache
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\obj\Debug\net6.0\Two-WayCircleList.AssemblyInfo.cs
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\obj\Debug\net6.0\Two-WayCircleList.csproj.CoreCompileInputs.cache
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\obj\Debug\net6.0\Two-WayCircleList.dll
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\obj\Debug\net6.0\ref\Two-WayCircleList.dll
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\obj\Debug\net6.0\Two-WayCircleList.pdb
+C:\Users\Danya\source\repos\Data_structures\Two-WayCircleList\obj\Debug\net6.0\Two-WayCircleList.genruntimeconfig.cache
