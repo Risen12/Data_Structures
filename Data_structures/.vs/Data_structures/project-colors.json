@@ -35,7 +35,12 @@
       "ProjectGuid": "ad4c0978-51bc-45b0-89be-df9a0bd207a4",
       "DisplayName": "Two-WayCircleList",
       "ColorIndex": 5
+    },
+    "b7515beb-a632-4323-a1e0-2682a3be488a": {
+      "ProjectGuid": "b7515beb-a632-4323-a1e0-2682a3be488a",
+      "DisplayName": "Queue",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
