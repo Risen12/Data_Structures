@@ -1,0 +1,15 @@
+C:\Users\Danya\source\repos\Data_structures\Quene\obj\Debug\net6.0\Queue.csproj.AssemblyReference.cache
+C:\Users\Danya\source\repos\Data_structures\Quene\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danya\source\repos\Data_structures\Quene\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+C:\Users\Danya\source\repos\Data_structures\Quene\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+C:\Users\Danya\source\repos\Data_structures\Quene\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\Danya\source\repos\Data_structures\Quene\bin\Debug\net6.0\Queue.exe
+C:\Users\Danya\source\repos\Data_structures\Quene\bin\Debug\net6.0\Queue.deps.json
+C:\Users\Danya\source\repos\Data_structures\Quene\bin\Debug\net6.0\Queue.runtimeconfig.json
+C:\Users\Danya\source\repos\Data_structures\Quene\bin\Debug\net6.0\Queue.dll
+C:\Users\Danya\source\repos\Data_structures\Quene\bin\Debug\net6.0\ref\Queue.dll
+C:\Users\Danya\source\repos\Data_structures\Quene\bin\Debug\net6.0\Queue.pdb
+C:\Users\Danya\source\repos\Data_structures\Quene\obj\Debug\net6.0\Queue.dll
+C:\Users\Danya\source\repos\Data_structures\Quene\obj\Debug\net6.0\ref\Queue.dll
+C:\Users\Danya\source\repos\Data_structures\Quene\obj\Debug\net6.0\Queue.pdb
+C:\Users\Danya\source\repos\Data_structures\Quene\obj\Debug\net6.0\Queue.genruntimeconfig.cache

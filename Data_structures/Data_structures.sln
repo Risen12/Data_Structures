@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoConnectedList", "TwoConn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircleList", "CircleList\CircleList.csproj", "{F0F7AB21-680F-4C07-90E4-46C073CB1E35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two-WayCircleList", "Two-WayCircleList\Two-WayCircleList.csproj", "{AD4C0978-51BC-45B0-89BE-DF9A0BD207A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two-WayCircleList", "Two-WayCircleList\Two-WayCircleList.csproj", "{AD4C0978-51BC-45B0-89BE-DF9A0BD207A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Quene\Queue.csproj", "{B7515BEB-A632-4323-A1E0-2682A3BE488A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{AD4C0978-51BC-45B0-89BE-DF9A0BD207A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD4C0978-51BC-45B0-89BE-DF9A0BD207A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD4C0978-51BC-45B0-89BE-DF9A0BD207A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7515BEB-A632-4323-A1E0-2682A3BE488A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7515BEB-A632-4323-A1E0-2682A3BE488A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7515BEB-A632-4323-A1E0-2682A3BE488A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7515BEB-A632-4323-A1E0-2682A3BE488A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
